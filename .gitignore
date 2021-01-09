@@ -25,3 +25,4 @@ yarn-error.log*
 
 # secrets
 /src/firebase/firebase.utils.js
+/src/components/stripe-button/stripe.config.js

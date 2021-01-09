@@ -1,0 +1,2 @@
+// Rename this file to stripe.config.js and add you key
+export const PUBLISHABLE_KEY = 'YOUR_STRIPE_KEY';
